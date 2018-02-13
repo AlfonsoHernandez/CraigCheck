@@ -1,0 +1,21 @@
+1518484267656	geckodriver	INFO	geckodriver 0.19.1
+1518484267673	geckodriver	INFO	Listening on 127.0.0.1:50145
+1518484268844	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/q0/2wsdvsy54fj0jp47f0t21dhc0000gq/T/rust_mozprofile.KBhAGs1VQsry"
+1518484270602	Marionette	INFO	Enabled via --marionette
+2018-02-12 17:11:12.154 plugin-container[1394:201233] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-02-12 17:11:13.470 plugin-container[1395:201440] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x743f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518484274078	Marionette	INFO	Listening on port 50157
+1518484274164	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518484290503	geckodriver	INFO	geckodriver 0.19.1
+1518484290524	geckodriver	INFO	Listening on 127.0.0.1:50278
+1518484291677	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/q0/2wsdvsy54fj0jp47f0t21dhc0000gq/T/rust_mozprofile.jzuiZEpIa7fi"
+1518484293100	Marionette	INFO	Enabled via --marionette
+2018-02-12 17:11:34.726 plugin-container[1404:204337] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-02-12 17:11:36.838 plugin-container[1406:204644] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7943, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518484296912	Marionette	INFO	Listening on port 50289
+1518484297186	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
